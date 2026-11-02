@@ -1,9 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Victor</h1>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=syncwrld.syncwrld&left_color=blue&right_color=lightgrey&left_text=Profile%20Views" />
-</p>
-
 ---
 
 ### 🚀 About Me    
